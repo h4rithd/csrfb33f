@@ -1,3 +1,4 @@
+```
 usage: python3 csrfb33f.py -u [url] -w [wordlist] -c [token-name]
 
 -------------------------------------------------------------
@@ -23,3 +24,4 @@ by h4rith.com
 
 ---------------- Script from h4rithd.com ----------------
 
+```

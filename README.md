@@ -24,4 +24,6 @@ by h4rith.com
 
 ---------------- Script from h4rithd.com ----------------
 
+Example : python3 csrfb33f.py -u http://127.0.0.1/index.php -c csrf_token -w /usr/share/seclists/Passwords/darkweb2017-top100.txt -user admin
+
 ```
